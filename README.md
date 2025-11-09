@@ -25,8 +25,9 @@ A simple app to demonstrate Create, Read, Update, and Delete operations using **
 
 ## 🧑‍💻 How to Use / Run Locally
 1. **Clone this repository:**
-   ```bash
+```
 git clone https://github.com/omargamal-og/CRUDs-App.git
+```
 
 ---
 
