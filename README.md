@@ -64,4 +64,4 @@ Here are some planned and possible enhancements to improve the Weather App in th
 **Omar Gamal**  
 💻 [GitHub](https://github.com/omargamal-og)  
 🔗 [LinkedIn](https://www.linkedin.com/in/omarrgamall)  
-📧 [Email](mailto:omargamalemam@gmail.com
+📧 [Email](mailto:omargamalemam@gmail.com)
